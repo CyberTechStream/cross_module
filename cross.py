@@ -1,5 +1,5 @@
-from turtle import *
-from random import randint
+# from turtle import *
+# from random import randint
 
 #функція старт - переміщення в координату
 def start(x, y):
